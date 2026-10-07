@@ -1,0 +1,23 @@
+Origin: CodeByWin Repo
+Label: CodeByWin Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Kho tweak jailbreak của CodeByWin dành cho Sileo và Zebra
+MD5Sum:
+ d21b75e5f5b0428ab3c51a38916e5768             1103 Packages
+ 11f0a3dbb98f9e1ed2a3c751ae84927f              608 Packages.bz2
+ 9cb8cf1ce9c5e36eda75a62d041594be              580 Packages.xz
+ c3a7adc65d8d87a0bf154599d5e92ab8              518 Packages.gz
+SHA1:
+ 438f752a63028950e4c03e9bf836778b5163e1e4             1103 Packages
+ 4deb9b1013d870b807992981ea950c38cabc13a9              608 Packages.bz2
+ 255993299c75ef0b9c15429fdf64926dfb2d6240              580 Packages.xz
+ 981cab4972ac9fb605c5d016c403f94fe8f5ea2d              518 Packages.gz
+SHA256:
+ 2d71499e8784631b38ac3cee45931c06c71991358389402b569b0ae984be845e             1103 Packages
+ 02c7767ac3f574a17f83cc6bfcf8cb5e440adfea58f42aa1881bbdf7be87caf3              608 Packages.bz2
+ 55af1a4f43e2c5f1f66335465b60f61b05504fd806c18b4e41033391e92d17e0              580 Packages.xz
+ a2b93c94b30cb96793a92065b124ee859a548dfb06e136100a7ca4afc8643095              518 Packages.gz

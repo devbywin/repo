@@ -1,0 +1,31 @@
+Package: com.hid.dev
+Name: HideDeveloperMode (Anti-DevMode)
+Description: Spoof & Hide iOS 16 Developer Mode & SSH
+Maintainer: CodeByWin
+Author: CodeByWin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), roothide (>= 0.0.1) | org.coolstar.ellekit
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 168
+Filename: debs/roothide_com.hid.dev_1.0.0_iphoneos-arm64e.deb
+Size: 5796
+MD5sum: 297ed2337e638198a24499e5e8a63433
+SHA1: d5626db791d3a48906ba5e55eb0da38d7a8948da
+SHA256: 3e28f60a076a5e1d00c1b95bf6fcd63abec1d6fd13d54145a0fd4bfff89674f9
+
+Package: com.hid.dev
+Name: HideDeveloperMode (Anti-DevMode)
+Description: Spoof & Hide iOS 16 Developer Mode & SSH
+Maintainer: CodeByWin
+Author: CodeByWin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), roothide (>= 0.0.1) | org.coolstar.ellekit
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 168
+Filename: debs/rootless_com.hid.dev_1.0.0_iphoneos-arm64.deb
+Size: 5848
+MD5sum: bc4e76a948d64cd5eca7d865c006b89e
+SHA1: fba5be55c77ef6ee05ee54c79eaa972c17ec60e8
+SHA256: 28f0debd30b4ba3b0d426b7e1ba037ff954dee524595b1f674b7dc5e586ca4a0
