@@ -18,14 +18,14 @@ if sys.platform == "win32" and hasattr(sys.stdout, "reconfigure"):
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 DEBS_DIR = os.path.join(REPO_DIR, "debs")
 
-RELEASE_HEADER = """Origin: CodeByWin Repo
-Label: CodeByWin Repo
+RELEASE_HEADER = """Origin: DevByWin Repo
+Label: DevByWin Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Kho tweak jailbreak của CodeByWin dành cho Sileo và Zebra
+Description: Kho tweak jailbreak của DevByWin dành cho Sileo và Zebra
 """
 
 def parse_ar(deb_path):

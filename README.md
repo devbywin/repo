@@ -1,9 +1,9 @@
-# CodeByWin iOS Tweak Repo
+# DevByWin iOS Tweak Repo
 
 Kho lưu trữ Tweak Jailbreak cho iOS (hỗ trợ **Sileo**, **Zebra**, **Cydia**).
 
 ## 🚀 Cách thêm Repo vào thiết bị iOS
-- Mở **Sileo** > **Sources (Nguồn)** > Nhấn **+** > Dán URL: `https://<username>.github.io/my-repo/`
+- Mở **Sileo** > **Sources (Nguồn)** > Nhấn **+** > Dán URL: `https://devbywin.github.io/repo/`
 - Hoặc mở trang web trên Safari của iPhone và bấm **Thêm vào Sileo**.
 
 ## 📦 Cách cập nhật hoặc thêm Tweak mới (.deb)

@@ -1,11 +1,11 @@
-Origin: CodeByWin Repo
-Label: CodeByWin Repo
+Origin: DevByWin Repo
+Label: DevByWin Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Kho tweak jailbreak của CodeByWin dành cho Sileo và Zebra
+Description: Kho tweak jailbreak của DevByWin dành cho Sileo và Zebra
 MD5Sum:
  d21b75e5f5b0428ab3c51a38916e5768             1103 Packages
  11f0a3dbb98f9e1ed2a3c751ae84927f              608 Packages.bz2
