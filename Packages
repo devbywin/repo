@@ -1,3 +1,35 @@
+Package: com.la.winday
+Name: VCAM iOS (Roothide)
+Description: Virtual Camera & Photo replacement for roothide jailbreak
+Maintainer: Tele
+Author: @gitisgit
+Section: Tweaks
+Depends: roothide (>= 0.0.1) | org.coolstar.ellekit | mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 408
+Filename: debs/com.la.winday_0.0.3_iphoneos-arm64.deb
+Size: 78100
+MD5sum: 33777dacee0328be4645734ecc9ef511
+SHA1: 5c71ce8b4773059c4a9b0bb1b7797086a369ec66
+SHA256: 3b20382f1d03c1adc0b8f5356add40523a4b5c70da0c5f920801dc8a9ec197e0
+
+Package: com.la.winday
+Name: VCAM iOS (Roothide)
+Description: Virtual Camera & Photo replacement for roothide jailbreak
+Maintainer: Tele
+Author: @gitisgit
+Section: Tweaks
+Depends: roothide (>= 0.0.1) | org.coolstar.ellekit | mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 408
+Filename: debs/com.la.winday_0.0.3_iphoneos-arm64e.deb
+Size: 78008
+MD5sum: 06cdfd47da0fef4bbb60920d314efb60
+SHA1: de3317b7ca71fced4fb7d8485c5d183921133cd4
+SHA256: 8caf7bab89f8d9bc4c7159a8da0b9a059292a76751eed7475eb4be816ddb5442
+
 Package: com.hid.dev
 Name: HideDeveloperMode (Anti-DevMode)
 Description: Spoof & Hide iOS 16 Developer Mode & SSH

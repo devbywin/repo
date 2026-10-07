@@ -7,17 +7,17 @@ Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Kho tweak jailbreak của DevByWin dành cho Sileo và Zebra
 MD5Sum:
- d21b75e5f5b0428ab3c51a38916e5768             1103 Packages
- 11f0a3dbb98f9e1ed2a3c751ae84927f              608 Packages.bz2
- 9cb8cf1ce9c5e36eda75a62d041594be              580 Packages.xz
- c3a7adc65d8d87a0bf154599d5e92ab8              518 Packages.gz
+ 78479f680445a5e58ccacf1be2b1ac18             2199 Packages
+ e0eefc1f82a0c5ecaa27b9c5a1294c7e              966 Packages.bz2
+ d26ee3f4719a3a87a260095426c738b4              864 Packages.xz
+ 862e304eaccc8fa0aaffcc66da31b4b1              828 Packages.gz
 SHA1:
- 438f752a63028950e4c03e9bf836778b5163e1e4             1103 Packages
- 4deb9b1013d870b807992981ea950c38cabc13a9              608 Packages.bz2
- 255993299c75ef0b9c15429fdf64926dfb2d6240              580 Packages.xz
- 981cab4972ac9fb605c5d016c403f94fe8f5ea2d              518 Packages.gz
+ 80adf65647ab80c4cdc5487bdec232c005c15340             2199 Packages
+ 7dc67edf2f1cca717eb9a9ed71de5543275a06e7              966 Packages.bz2
+ b44609b7357bd84051a380577a0bbbe62ae2a2a0              864 Packages.xz
+ 7c05767f4ec1c6884c29c55c3d407136153dd42d              828 Packages.gz
 SHA256:
- 2d71499e8784631b38ac3cee45931c06c71991358389402b569b0ae984be845e             1103 Packages
- 02c7767ac3f574a17f83cc6bfcf8cb5e440adfea58f42aa1881bbdf7be87caf3              608 Packages.bz2
- 55af1a4f43e2c5f1f66335465b60f61b05504fd806c18b4e41033391e92d17e0              580 Packages.xz
- a2b93c94b30cb96793a92065b124ee859a548dfb06e136100a7ca4afc8643095              518 Packages.gz
+ 0dad5f8454e49365f3bcfef4da14b8bec5204828acb060e1fc07566d53d53962             2199 Packages
+ 8e72812bc5d4b32a95876b0b7ba78bbc0cc15e94cf7f119a47ced567174fcffe              966 Packages.bz2
+ e1faf77fee70583014732e63836b9610dea155df02dfa0be399561f31739c083              864 Packages.xz
+ 8f9131c5db8c863cc0cc8b60b6fa9e5784e4ad6d363874b8c146a56e1b30ece3              828 Packages.gz
